@@ -41,7 +41,7 @@ cd flycapture2-2.11.3.121-amd64/
 ```
 You can follow the README file in the folder or follow the command below:  
 ```
-sudo apt-get install libraw1394-11 libgtkmm-2.4-dev                    \
+sudo apt-get install libraw1394-11 libgtkmm-2.4-dev libkw-dev                   \
         libglademm-2.4-dev libgtkglextmm-x11-1.2-dev libusb-1.0-0
 ```  
 FLYCAPTURE2 INSTALLATION:
