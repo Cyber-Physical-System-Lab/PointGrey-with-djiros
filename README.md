@@ -49,6 +49,12 @@ FLYCAPTURE2 INSTALLATION:
 sudo sh install_flycapture.sh
 ```
 ## 3. Others  
+Download [OSDK 3.3.1](https://github.com/dji-sdk/Onboard-SDK/releases/tag/v3.3.1) and install
+```
+cd YOUR_PATH_TO_OSDK/
+mkdir & cd build
+cmake .. & make & sudo make install
+```
 You may need to install armadillo
 ```
 sudo apt-get install libarmadillo-dev  
